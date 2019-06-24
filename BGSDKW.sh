@@ -284,7 +284,7 @@ clear
 cowsay Apa Lo Kontol
 sleep 4
 clear
-https://github.com/MaestroTool/HackFB.git
+git clone https://github.com/MaestroTool/HackFB.git
 cd HackFB $y
 python2 hack.py $y
 fi
@@ -306,7 +306,7 @@ clear
 cowsay Apa Lo Monyet
 sleep 4
 clear
-https://github.com/MaestroTool/MR-B4NGS4D.git
+git clone https://github.com/MaestroTool/MR-B4NGS4D.git
 cd MR-B4NGS4D $y
 php GuardFBAsw.php	$y
 fi
