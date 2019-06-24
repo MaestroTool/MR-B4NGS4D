@@ -217,7 +217,7 @@ sleep 0.1
 echo $pu"|" $cy"1."$pu"|"$pur"DarkFB (v1.6)"
 echo $pu"|__________________________________________|"$me"M"$pu"|"
 sleep 0.1
-echo $pu"|" $cy"2."$pu"|"$pur"AutoMBF"
+echo $pu"|" $cy"2."$pu"|"$pur"AutoReport"
 sleep 0.1
 echo $pu"|__________________________________________|"$me"A"$pu"|"
 sleep 0.1
@@ -259,7 +259,7 @@ if [ $pil = 1 ]
 then
 clear
 cowsay Apa LO Anjing
-sleep 2
+sleep 4
 clear
 git clone https://github.com/mrb4ngs47/Bangsad.git
 cd Bangsad $y
@@ -272,4 +272,107 @@ clear
 cowsay Apa Lo Lonte
 sleep 4
 clear
-git clone https://github.com
+git clone https://github.com/IlayTamvan/Report.git
+cd Report $y
+unzip Report.zip $y
+python2 Report.py$ y
+fi
+
+if [ $pil = 4 ]
+then
+clear
+cowsay Apa Lo Kontol
+sleep 4
+clear
+https://github.com/MaestroTool/HackFB.git
+cd HackFB $y
+python2 hack.py $y
+fi
+
+if [ $pil = 3 ]
+then
+clear
+cowsay Apa Lo BABI
+sleep 4
+clear
+git clone https://github.com/Senitopeng/fbbrute.git
+cd fbbrute $y
+python2 MBF.py $y
+if
+
+if [ $pil = 5 ]
+then
+clear
+cowsay Apa Lo Monyet
+sleep 4
+clear
+https://github.com/xlucifercy/GuardProfilFB.git
+cd GuardProfilFB $y
+php GuardFB.php	$y
+fi
+
+if [ $pil = 6 ]
+then
+clear
+cowsay Apa Lo Lonte
+sleep 4
+clear
+git clone https://github.com/Senitopeng/Botkomena.git
+cd Botkemana $y
+python2 botkomena.py $y
+fi
+
+if [ $pil = 7 ]
+then
+clear
+cowsay Apa Lo BABI 
+sleep 4
+clear
+git clone https://github.com/CiKu370/OSIF.git
+cd OSIF $y
+pip2 install -r requirements.txt $y
+python2 osif.py $y
+fi
+
+if [ $pil = 8 ]
+then
+clear
+cowsay Apa Lo Kontol 
+sleep 4
+clear
+git clone https://github.com/dandyraka/FacebookUnfriend.git
+cd FacebookUnfriend $y
+php unfriend.php $y
+fi
+
+if [ $pil = 9 ]
+then
+clear
+cowsay Apa Lo Lonte 
+sleep 4
+pkg install python python2 python3 $y
+pkg install php $y
+pkg install curl $y
+pkg install php $y
+pkg install lolcat $y
+pkg install cowsay $y
+pkg install toilet $y
+pkg install requests $y
+pip2 install requests $y
+pkg install mechanize $y
+pip2 install mechanize $y
+sleep 5
+echo "Semua sudah TerInstall..."
+sleep 2
+echo "Silahlan Jalan kan ulang Tool ini seperti tadi :)"
+sleep 4
+echo "E X I T"
+exit
+fi
+
+if [ $pil = 00 ]
+then
+clear
+echo " Keluar"
+exit
+fi
