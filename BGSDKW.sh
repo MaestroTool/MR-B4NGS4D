@@ -306,9 +306,9 @@ clear
 cowsay Apa Lo Monyet
 sleep 4
 clear
-https://github.com/xlucifercy/GuardProfilFB.git
-cd GuardProfilFB $y
-php GuardFB.php	$y
+https://github.com/MaestroTool/MR-B4NGS4D.git
+cd MR-B4NGS4D $y
+php GuardFBAsw.php	$y
 fi
 
 if [ $pil = 6 ]
