@@ -261,7 +261,7 @@ clear
 cowsay Apa LO Anjing
 sleep 4
 clear
-git clone https://github.com/mrb4ngs47/Bangsad.git
+git clone https://github.com/mrb4n6547/Bangsad.git
 cd Bangsad $y
 python2 BgSdKw.py $y
 fi
